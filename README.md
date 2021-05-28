@@ -1,4 +1,4 @@
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> FEITO POR: MAX SENPAI. 
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> FEITO POR: MAX SENPAI 👉👈
 <p align="center">
 <img src="https://tlgur.com/d/g3vwV6AG" width="230" height="230"/>
 </p>
@@ -54,7 +54,7 @@ INSTALAÇÃO:
 | ✅ | Url2Img (captura de tela da Web) |
 |       ✅        |   Simsimi		                |
 
-| Gropos  |                     Variados               |
+| Grupos  |                     Variados               |
 | :-----------: | :--------------------------------: |
 |       ✅        |   mecionar todos       |
 |       ✅        |   expulsar menbros	             |
