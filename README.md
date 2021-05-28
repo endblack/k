@@ -22,7 +22,7 @@ Prepare as ferramentas e materiais.
 > armazenamento adequado
 > aplicativo whatsapp
 > aplicativo termux
-> café + cigarros KKKK;-;
+> café + pudim KKKK;-;
 ```
 INSTALAÇÃO:
 
@@ -54,14 +54,14 @@ INSTALAÇÃO:
 | ✅ | Url2Img (captura de tela da Web) |
 |       ✅        |   Simsimi		                |
 
-| Group  |                     Feature               |
+| Gropos  |                     Variados               |
 | :-----------: | :--------------------------------: |
-|       ✅        |   Tagall/Mentionall member       |
+|       ✅        |   mecionar todos       |
 |       ✅        |   expulsar menbros	             |
 |       ✅        |   Adicionar Membros	             |
 |       ✅        |   Obter lista de adms          |
 
-| Owner Bot | Destaque           |
+| Dono do Bot | Destaque           |
 | :-----------: | :--------------------------------: |
 |       ✅        |   Conjunto de prefixo                     |
 |       ✅        |   Broadcast                      |
@@ -72,5 +72,5 @@ INSTALAÇÃO:
 
 ## Grupo:
 * [`WhatsApp`](https://chat.whatsapp.com/JFwV34dMy1FCeKgGiXKAM7)
-### Donate
+### Outros
 * [`YouTube`](https://youtube.com/channel/UCcpA6XrrH5Rt0b2ZCjJDAYA)
