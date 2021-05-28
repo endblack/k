@@ -29,12 +29,17 @@ INSTALAÇÃO:
 > Se você não tiver o APK Termux, baixe-o na Playstore
 > entre no apk termux e digite abaixo!
 > termux-setup-storage
-> pkg install git && pkg install tesseract && 
-> apt update && apt upgrade
-> git clone https://github.com/DarkZh/dark-bot
-> cd dark-bot
+> apt upgrade
+> apt update 
+> pkg install nodejs
+> npm i megah
+> cd node_modules/megah
+> cp -r megah $HOME
+> cd
+> cd megah
 > bash install.sh
-> npm start
+> npm i -f 
+> node index
 > Basta escanear o código qr e ... pronto
 ```
 
