@@ -17,7 +17,6 @@ NÃO VENDA / COMPRE O SCRIPT, ESTE SCRIPT É 100% GRATUITO PARA OS USUÁRIOS DO 
 
 ### FERRAMENTAS E MATERIAIS <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="29px">
 Prepare as ferramentas e materiais.
-`` `bash
 > 2 telefones celulares (1 para executar os cmds, 1 para ler o código QR plis)
 > rede de internet rápida, ou wifi
 > armazenamento adequado
